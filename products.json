@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "name": "SIRORO T-SHIRT",
+    "description": "A stylish white t-shirt featuring a vibrant and colorful tribal mask design.",
+    "price": 10000,
+    "image": "images/SIRORO.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 2,
+    "name": "50 CENT T-SHIRT",
+    "description": "A premium white t-shirt inspired by 50 Cent, featuring bold and modern graphics.",
+    "price": 10000,
+    "image": "images/50CENT.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 3,
+    "name": "AJEGUNLE STAR T",
+    "description": "A trendy t-shirt celebrating the vibrant spirit of Ajegunle, with a unique star-inspired design.",
+    "price": 10000,
+    "image": "images/AJEGUNLE.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 4,
+    "name": "ALL MY DREAM",
+    "description": "A motivational white t-shirt featuring the text 'All My Dream' with sleek typography and design.",
+    "price": 10000,
+    "image": "images/ALLDREAM.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 5,
+    "name": "ART FACE",
+    "description": "An artistic t-shirt with a captivating face illustration, blending creativity and style.",
+    "price": 10000,
+    "image": "images/ART_FACE.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 6,
+    "name": "ATIKO PRINCESS",
+    "description": "A luxurious t-shirt featuring a bold design fit for royalty, perfect for any princess at heart.",
+    "price": 10000,
+    "image": "images/ATIKO_PRINCESS.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 7,
+    "name": "AVE NUKS",
+    "description": "A minimalist and stylish t-shirt with a modern design, ideal for any casual outing.",
+    "price": 10000,
+    "image": "images/AVE_NUKS.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 8,
+    "name": "RAMO T-SHIRT",
+    "description": "A trendy t-shirt with a dynamic design featuring bold colors and geometric patterns.",
+    "price": 10000,
+    "image": "images/RAMO.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 9,
+    "name": "REDEMPTION BOY",
+    "description": "A striking t-shirt with the words 'Redemption Boy' styled with a powerful graphic design.",
+    "price": 10000,
+    "image": "images/REDEMPTION_BOY.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 10,
+    "name": "SIGHT OF FREEDOM",
+    "description": "An inspiring t-shirt featuring an open view of freedom with a captivating scenic design.",
+    "price": 10000,
+    "image": "images/SIGHT_OF_FREEDOM.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 11,
+    "name": "MASK VON",
+    "description": "A mysterious t-shirt with a bold mask-inspired design that evokes intrigue and style.",
+    "price": 10000,
+    "image": "images/MASK_VON.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 12,
+    "name": "PRICELESS POSE",
+    "description": "A fashionable t-shirt featuring an expressive pose design with a sense of confidence and style.",
+    "price": 10000,
+    "image": "images/PRICELESS_POSE.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 13,
+    "name": "POSE CYBUG",
+    "description": "A futuristic t-shirt with a pose inspired by cybernetic design, perfect for tech enthusiasts.",
+    "price": 10000,
+    "image": "images/POSE_CYBUG.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 14,
+    "name": "LUMI T-SHIRT",
+    "description": "A glowing t-shirt with neon lights inspired by modern fashion and nightlife culture.",
+    "price": 10000,
+    "image": "images/LUMI_TSHIRT.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 15,
+    "name": "LOVE BIRD EYES",
+    "description": "A romantic t-shirt featuring love bird eyes design, symbolizing affection and togetherness.",
+    "price": 10000,
+    "image": "images/LOVE_BIRD_EYES.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 16,
+    "name": "LONELY TOGETHER",
+    "description": "A thought-provoking t-shirt with a message that blends the concept of loneliness and togetherness.",
+    "price": 10000,
+    "image": "images/LONELY_TOGETHER.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 17,
+    "name": "KIXKONG",
+    "description": "A powerful t-shirt with a bold King Kong graphic design that exudes strength and energy.",
+    "price": 10000,
+    "image": "images/KIXKONG.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 18,
+    "name": "FACE MAN COLOUR",
+    "description": "A colorful t-shirt featuring a vibrant and expressive face design that represents individuality.",
+    "price": 10000,
+    "image": "images/FACE_MAN_COLOUR.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 19,
+    "name": "EXPENSIVE JANE",
+    "description": "A luxurious t-shirt designed with an elegant font and aesthetic, showcasing sophistication.",
+    "price": 10000,
+    "image": "images/EXPENSIVE_JANE.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 20,
+    "name": "DUNK HABIT",
+    "description": "A sporty t-shirt inspired by basketball culture, featuring the phrase 'Dunk Habit' and an action-packed graphic.",
+    "price": 10000,
+    "image": "images/DUNK_HABIT.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 21,
+    "name": "LEVEL UP",
+    "description": "A motivational t-shirt featuring the phrase 'Level Up' with a sleek and modern design.",
+    "price": 10000,
+    "image": "images/LEVEL_UP.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 22,
+    "name": "DRAW ME CLOSE",
+    "description": "A heartfelt t-shirt with a creative design symbolizing the desire for closeness and connection.",
+    "price": 10000,
+    "image": "images/DRAW_ME_CLOSE.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 23,
+    "name": "DO WHAT MAKES HAPPY",
+    "description": "An uplifting t-shirt featuring the phrase 'Do What Makes Happy' designed with positive energy.",
+    "price": 10000,
+    "image": "images/DO_WHAT_MAKES_HAPPY.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 24,
+    "name": "COLOUR MASK FACE",
+    "description": "A colorful t-shirt with an abstract mask design that combines vivid colors and artistic expression.",
+    "price": 10000,
+    "image": "images/COLOUR_MASK_FACE.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 25,
+    "name": "DO SOMETHING",
+    "description": "An inspiring t-shirt with the words 'Do Something Awesome' that motivates action and positivity.",
+    "price": 10000,
+    "image": "images/DO_SOMETHING_AWESOME.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 26,
+    "name": "BULL UP",
+    "description": "A bold t-shirt with a powerful 'Bull Up' design, exuding strength and courage.",
+    "price": 10000,
+    "image": "images/BULL_UP.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 27,
+    "name": "CHANGE IS PROCESS",
+    "description": "A thought-provoking t-shirt featuring the phrase 'Change is Process', designed to inspire personal growth.",
+    "price": 10000,
+    "image": "images/CHANGE_IS_PROCESS.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 28,
+    "name": "BLACK TXK",
+    "description": "A sleek black t-shirt with a minimalist 'TXK' design, perfect for any casual outfit.",
+    "price": 10000,
+    "image": "images/BLACK_TXK.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 29,
+    "name": "BLCK TAX",
+    "description": "A stylish t-shirt with a unique 'BLCK TAX' graphic, blending fashion and modern trends.",
+    "price": 10000,
+    "image": "images/BLCK_TAX.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 30,
+    "name": "BE KIND TO UNKIND",
+    "description": "A compassionate t-shirt featuring the powerful message 'Be Kind to Unkind People'.",
+    "price": 10000,
+    "image": "images/BE_KIND_TO_UNKIND_PEOPLE.jpg",
+    "category": "Clothing"
+  },
+  {
+  "id": 31,
+    "name": "A MAN EARN IT",
+    "description": "An empowering t-shirt with the bold phrase 'A Man Earn It,' symbolizing hard work and determination.",
+    "price": 10000,
+    "image": "images/A_MAN_EARN_IT.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 32,
+    "name": "BRAND NEW ME UNOFF",
+    "description": "A motivational t-shirt symbolizing transformation with the phrase 'Brand New Me Unoff.'",
+    "price": 10000,
+    "image": "images/BRAND_NEW_ME_UNOFF.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 33,
+    "name": "BE WHO YOU WANT TO BE",
+    "description": "An inspiring t-shirt encouraging individuality with the message 'Be Who You Want to Be.'",
+    "price": 10000,
+    "image": "images/BE_WHO_YOU_WANT_TO_BE.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 34,
+    "name": "CHOICES AND STORIES",
+    "description": "A unique t-shirt with a design inspired by the phrase 'Choices and Stories,' showcasing life's narratives.",
+    "price": 10000,
+    "image": "images/CHOICES_AND_STORIES.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 35,
+    "name": "CREATE SOMETHING TODAY",
+    "description": "An artistic t-shirt encouraging creativity with the message 'Create Something Today.'",
+    "price": 10000,
+    "image": "images/CREATE_SOMETHING_TODAY.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 36,
+    "name": "ENJOY WHAT MAKES YOU HAPPY",
+    "description": "An uplifting t-shirt with the phrase 'Enjoy What Makes You Happy,' promoting positivity and joy.",
+    "price": 10000,
+    "image": "images/ENJOY_WHAT_MAKES_YOU_HAPPY.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 37,
+    "name": "FEAR GOD",
+    "description": "A spiritual t-shirt featuring the phrase 'Fear God' with a powerful and minimalist design.",
+    "price": 10000,
+    "image": "images/FEAR_GOD.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 38,
+    "name": "FEDERAL REPUBLIC OF LAMBA",
+    "description": "A trendy t-shirt celebrating unique creativity with the phrase 'Federal Republic of Lamba.'",
+    "price": 10000,
+    "image": "images/FEDERAL_REPUBLIC_OF_LAMBA.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 39,
+    "name": "HE KNOWS MY NAME",
+    "description": "A comforting t-shirt with the inspiring phrase 'He Knows My Name,' symbolizing faith and trust.",
+    "price": 10000,
+    "image": "images/HE_KNOWS_MY_NAME.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 40,
+    "name": "KIVUN",
+    "description": "A bold and modern t-shirt with the unique phrase 'Kivun,' representing individuality and style.",
+    "price": 10000,
+    "image": "images/KIVUN.jpg",
+    "category": "Clothing"
+  }
+]
