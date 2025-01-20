@@ -16,6 +16,7 @@ a{
     font-size: 14px !important;
     color: rgb(80, 80, 78);
 }
+
 .button {
     position: relative;
     padding: 10px 22px;
@@ -111,7 +112,6 @@ a{
   }
 
 
-  /* From Uiverse.io by adeladel522 */ 
 .butt {
   position: relative;
   transition: all 0.3s ease-in-out;
@@ -135,6 +135,13 @@ a{
   font-size: 15px;
 }
 
+@media screen and (max-width: 468px){
+  .butt {
+    margin-bottom: 5rem!important;
+    
+  }
+  
+}
 a{
   text-decoration: none;
   color: rgb(117, 110, 110);
