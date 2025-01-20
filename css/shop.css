@@ -122,6 +122,7 @@ a{
   border-radius: 9999px;
   display: flex;
   align-items: center;
+  margin-bottom: 1rem!important;
   justify-content: center;
   margin-top: 2rem!important;
   cursor: pointer;

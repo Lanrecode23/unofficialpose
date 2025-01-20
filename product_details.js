@@ -36,7 +36,7 @@
         limitedProducts.forEach(product => {
             productList.innerHTML += `
                 <div class="col-lg-3 col-md-4 col-sm-6">
-                    <div class="card  shadow-sm p-3 mb-3 bg-body-tertiary rounded">
+                    <div class="card  shadow-sm p-3 mb-3 mt-3 bg-body-tertiary rounded">
                         <!-- Product Image -->
                         <div class="card-img-top bg-dark rounded-4" 
                             style="height: 12rem; background-image: url('${product.image}'); background-size: cover; background-position: center;"></div>

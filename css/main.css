@@ -350,12 +350,12 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 }
 
 .image img {
-  height: 30rem !important;
-  width: 30rem !important;
+  height: 40rem !important;
+  width: 40rem !important;
   margin-right: 40px !important;
 }
 #product-name{
-  margin-top: 8rem !important;
+  margin-top: 10rem !important;
 }
 
 .project_detailPage {
@@ -390,6 +390,37 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 #product-description{
   font-family: "Poppins-Regular", sans-serif !important;
   font-size: 14px;
+}
+
+@media screen and (max-width:468px) {
+  .image img {
+    height: 30rem !important;
+    width: 30rem !important;
+    margin-right: 40px !important;
+  }
+  #product-name{
+    margin-top: -2rem !important;
+    font-size: 18px !important;
+  }
+  
+  .project_detailPage {
+   background: #e2e9eb;
+    padding: 4rem;
+    margin-bottom: -3rem!important;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .project_detailPage h3{
+    font-family: Poppins-Medium;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  .card{
+    width: 20rem!important;
+    margin: auto !important;
+  }
 }
 
 .main-menu {
